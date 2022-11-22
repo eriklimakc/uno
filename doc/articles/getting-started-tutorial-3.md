@@ -53,7 +53,7 @@ The tutorial walks you through creating a cross platform application with Uno Pl
         - `Uno.Toolkit.WinUI.Markup`
         - `Uno.Themes.WinUI.Markup`
 
-1. [See the Material docs to add necessary resources for Colors andFonts](https://platform.uno/docs/articles/external/uno.themes/doc/material-getting-started.html?q=MaterialColors#getting-started)
+1. [See the Material docs to add necessary resources for Colors and Fonts](https://platform.uno/docs/articles/external/uno.themes/doc/material-getting-started.html?q=MaterialColors#getting-started)
 
 1. Finally, you'll need to close any opened file in the editor, then close the solution or Visual Studio, then re-open it. This is a workaround for a Visual studio issue regarding the XAML editor.
 
@@ -61,7 +61,7 @@ The tutorial walks you through creating a cross platform application with Uno Pl
 
 1. Add a Business folder in the Shared Project.
 
-1. Add a new record and then paste in the following code:
+1. Add a new class and then paste in the following code, that includes all the logic behind the calculator:
 
     ```cs
     public record Calculator
@@ -293,7 +293,7 @@ The tutorial walks you through creating a cross platform application with Uno Pl
 
 1. Add a Models folder in the Shared Project.
 
-1. Add a new record and then paste in the following code:
+1. Add a new class and then paste in the following code:
 
     ```cs
     public partial record MainModel
