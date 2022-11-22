@@ -11,7 +11,7 @@ In this tutorial you will learn how to:
 - Create a new Project with Uno Platform
 - Use MVU-x and CSharp for Markup
 
-The tutorial walks you through creating a cross platform application with Uno Platform - a Simple Calculator app - which enables you to see a single Issue entry.
+The tutorial walks you through creating a cross platform application with Uno Platform - a Simple Calculator app.
 
 <div class="NOTE alert alert-info">
 <h5>Before you start the tutorial</h5>
