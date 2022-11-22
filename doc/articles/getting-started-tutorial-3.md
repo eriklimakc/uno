@@ -293,8 +293,6 @@ The tutorial walks you through creating a cross platform application with Uno Pl
 
 1. Add a Models folder in the Shared Project.
 
-    ![](Assets/tutorial01/create-models-folder.png)
-
 1. Add a new record and then paste in the following code:
 
     ```cs
